@@ -1,1 +1,1 @@
-jednak wielkiego (branch 2)
+po prostu branch 3
